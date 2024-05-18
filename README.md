@@ -13,8 +13,6 @@
 ## Portfolio
 👉 Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
 
-👉 You can also contact me at an70978@usc.edu
-
 ---
 
 ## Connect with Me
@@ -22,6 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonnavarro/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 
+📫 You can also contact me at an70978@usc.edu
 ---
 
 ## Skills
