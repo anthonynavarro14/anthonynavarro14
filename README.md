@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
   <h1> 👋 Hi, I'm Anthony Navarro 👋</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
