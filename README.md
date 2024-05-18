@@ -12,6 +12,7 @@
 
 ## Portfolio
 👉 Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
+
 👉 You can also contact me at an70978@usc.edu
 
 ---
