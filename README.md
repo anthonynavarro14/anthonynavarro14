@@ -2,11 +2,13 @@
   <h1> 👋 Hi, I'm Anthony Navarro 👋</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
   <p>⚡️🚀 Committed to combining business acumen with data science to transform the world and create impactful solutions. ⚡️🚀</p>
+  <img src="https://github.com/anthonynavarro14/anthony-navarro/blob/main/PRO_HEADSHOT.jpg?raw=true" alt="Profile Picture" width="300" style="border-radius: 50%; border: 2px solid #000;">
+</div>
 
-  
+---
 
 ## About Me
-👨‍💻I'm a data scientist with experience in AI, data analysis, and deep learning modeling. Committed to combining business acumen with data science to transform the world and create innovative solutions.
+👨‍💻 I'm a data scientist with experience in AI, data analysis, and deep learning modeling. Committed to combining business acumen with data science to transform the world and create innovative solutions.
 
 ---
 
@@ -21,6 +23,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 
 📫 You can also contact me at an70978@usc.edu
+
 ---
 
 ## Skills
@@ -34,10 +37,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-019875?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonynavarro14&show_icons=true&theme=dark)
 
-
-
+---
 
 <!--
 **anthonynavarro14/anthonynavarro14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
