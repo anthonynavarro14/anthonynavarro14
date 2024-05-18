@@ -15,17 +15,10 @@
 
 ---
 
-## Featured Projects
-### [Gas Fee Prediction Using Transformers](https://github.com/yourusername/project1)
-🔍 Description of Project 1. Key features, technologies used, etc.
-
-### [Advanced Object Recognition Deep Learning Model](https://github.com/yourusername/project2)
-🎯 Description of Project 2. Key features, technologies used, etc.
-
-### [Volatility Prediction Using Transformers](https://github.com/yourusername/project3)
-📊 Description of Project 3. Key features, technologies used, etc.
-
-For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonynavarro14/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonnavarro/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 
 ---
 
@@ -40,12 +33,6 @@ For more projects, go to my portfolio website: [Anthony Navarro's Portfolio](htt
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-019875?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonynavarro14/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonnavarro/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
 
 
 
