@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1> 👋 Hi, I'm Anthony Navarro 👋</h1>
   <p>Data Science Professional with a strong passion for Deep Learning and Machine Learning</p>
   <p>⚡️🚀 Committed to combining business acumen with data science to transform the world and create impactful solutions. ⚡️🚀</p>
