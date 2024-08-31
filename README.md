@@ -7,7 +7,15 @@
 ---
 
 ## About Me
-👨‍💻 I'm a data scientist with experience in AI, data analysis, and deep learning modeling. Committed to combining business acumen with data science to transform the world and create innovative solutions.
+👨‍💻 **Data scientist passionate about leveraging AI, machine learning, and deep learning to build innovative solutions :) I love applying my business knowledge with a detail-oriented approach to data science, aiming to drive meaningful transformations.**
+
+Here’s the list of my data science passions:
+
+- 🧪 **Experimentation and Causal Inference** – I love applying experimental design to uncover causal relationships and make data-driven decisions, making it easy to digest for non-technical stakeholders.
+- 🔄 **Recommender Systems** – I love learning and building recommender systems. Lately, I've been focusing on hybrid models and exploring cutting-edge techniques like **transformer architectures** to enhance personalized recommendations.
+- 🕵️‍♂️ **Thoughtful Exploratory Data Analysis (EDA)** – I'm very detail-oriented when it comes to EDA, feature engineering and feature selection. A thorough EDA process is essential for uncovering meaningful patterns and insights.
+- 🤖 **Classic Machine Learning Modeling** – I'm experienced in a wide range of traditional machine learning techniques to solve complex problems.
+- 📚 **ML/DL Paper Nerd** – Lastly, I'm an avid reader and analyzer of the latest machine learning and deep learning research papers to stay at the forefront of the field.
 
 ---
 
