@@ -18,7 +18,13 @@ Here’s the list of my data science passions:
 - 📚 **ML/DL Paper Nerd** – Lastly, I'm an avid reader and analyzer of the latest machine learning and deep learning research papers to stay at the forefront of the field.
 
 ---
+## Recent Project
 
+### 📌 [Transformer-Based Recommendation System](https://github.com/anthonynavarro14/transformer_based_recommender_system)
+Click above to check out my latest project where I built a recommendation system using Transformer architecture. The project walks through data preprocessing, sequence generation, and model training and evaluation, providing a clear guide for anyone interested in leveraging Transformers for recommendation tasks.
+
+
+---
 ## Portfolio
 👉 Check out my personal portfolio website: [Anthony Navarro's Portfolio](https://www.datascienceportfol.io/anthonynavarro)
 
@@ -50,6 +56,7 @@ Here’s the list of my data science passions:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonynavarro14&show_icons=true&theme=dark)
 
 ---
+
 
 <!--
 **anthonynavarro14/anthonynavarro14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
