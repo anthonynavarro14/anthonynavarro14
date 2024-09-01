@@ -20,11 +20,14 @@ Here’s the list of my data science passions:
 ---
 ## Recent Project
 
-### 📌 [Transformer-Based Recommendation System](https://github.com/anthonynavarro14/transformer_based_recommender_system)
-Click above to check out my latest project where I built a recommendation system using Transformer architecture. The project walks through data preprocessing, sequence generation, and model training and evaluation, providing a clear guide for anyone interested in leveraging Transformers for recommendation tasks.
-
 ### 📌 [Advanced Bayesian A/B testing Project](https://github.com/anthonynavarro14/advanced_bayesian_ab_testing_project)
 Click above to check out my latest project that explores and compares Frequentist and Bayesian A/B testing approaches, demonstrating the advantages of Bayesian methods for interpretability and decision-making in complex, real-world scenarios, with detailed explanations of each step to enhance understanding and application.
+
+### 📌 [Transformer-Based Recommendation System](https://github.com/anthonynavarro14/transformer_based_recommender_system)
+Click above to check out my project where I built a recommendation system using Transformer architecture. The project walks through data preprocessing, sequence generation, and model training and evaluation, providing a clear guide for anyone interested in leveraging Transformers for recommendation tasks.
+
+### 📌 [Advanced Face Recognition with YOLOv10](https://github.com/anthonynavarro14/face_recognition_using_yolov10)
+Explore one of my favorite projects, where I developed a Face Recognition model using the cutting-edge YOLOv10. This project takes you through capturing your own dataset, implementing a semi-automated labeling system, and mastering data augmentation techniques.
 
 
 ---
