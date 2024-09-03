@@ -18,7 +18,7 @@ Here’s the list of my data science passions:
 - 📚 **ML/DL Paper Nerd** – Lastly, I'm an avid reader and analyzer of the latest machine learning and deep learning research papers to stay at the forefront of the field.
 
 ---
-## Recent Project
+## Recent Projects
 
 ### 📌 [Advanced Bayesian A/B testing Project](https://github.com/anthonynavarro14/advanced_bayesian_ab_testing_project)
 Click above to check out my latest project that explores and compares Frequentist and Bayesian A/B testing approaches, demonstrating the advantages of Bayesian methods for interpretability and decision-making in complex, real-world scenarios, with detailed explanations of each step to enhance understanding and application.
